@@ -1,0 +1,24 @@
+.btn_signout{
+    position: fixed;
+    right: 20px;
+    bottom: 3rem;
+    height: 5rem;
+    width: 5rem;
+    border: none;
+    border-radius: 50%;
+    background-color: blue;
+}
+.template-container{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.template{
+    height: 25rem;
+    width: 20rem;
+    border: 2px solid black;
+}
+.template img{
+    height: 100%;
+    width: 100%;
+}

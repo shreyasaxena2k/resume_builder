@@ -1,0 +1,11 @@
+.previewContainer{
+    /* flex-grow: 1; */
+    width: 50%;
+    border: 2px solid blue;
+}
+.template-A{
+    color: blue;
+}
+.template-B{
+    color: red;
+}
